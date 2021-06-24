@@ -7,4 +7,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{"./app":"QdeU"}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/app"),require("./js/gallery");
 },{"./sass/main.scss":"clu1","./js/app":"QdeU","./js/gallery":"chxP"}]},{},["Focm"], null)
-//# sourceMappingURL=/parcel-project-template/src.f365e349.js.map
+//# sourceMappingURL=/goit-js-hw-09-gallery/src.9b1d51f7.js.map
